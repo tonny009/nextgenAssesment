@@ -5,11 +5,11 @@ import Dashboardlayout from '../Components/Dashboardlayout'
 
 export const routes = createBrowserRouter([
   {
-    path: '/dashboard',
+    path: '/',
     element: <Dashboardlayout></Dashboardlayout>,
     children: [
       {
-        path: '/dashboard',
+        path: '/',
         element: <Dashboard></Dashboard>,
       },
       {

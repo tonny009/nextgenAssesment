@@ -12,7 +12,7 @@ const Dashboardlayout = () => {
   const MenuList = (
     <>
       <li className="font-semibold btn-colors pl-4  rounded-xl hover:bg-zinc-700">
-        <Link to="/dashboard">
+        <Link to="/">
           <div className="w-7">
             <img src={Dashpic} />
           </div>
