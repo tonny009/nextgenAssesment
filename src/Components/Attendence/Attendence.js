@@ -212,7 +212,7 @@ const Attendence = () => {
                   <buttion className="tbl_button_red ">10.45 am</buttion>
                 </td>
                 <th>
-                  <buttion className="tbl_button-red ">05.45 pm</buttion>
+                  <buttion className="tbl_button_red ">05.45 pm</buttion>
                 </th>
                 <th>
                   <div>
