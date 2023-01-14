@@ -1,0 +1,12 @@
+.not_box {
+  position: relative;
+}
+.notification {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  top: 12px;
+  left: 13px;
+  background-color: brown;
+}

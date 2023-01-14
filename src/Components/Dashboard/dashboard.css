@@ -1,0 +1,125 @@
+.title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  color: #102048;
+}
+.title2 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  color: #102048;
+}
+.common_bg {
+  background-color: #f4f4f4;
+}
+.number_style {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+}
+.button_style {
+  margin-top: 5px;
+  width: 90px;
+  height: 39px;
+  background-color: #1e2772;
+  color: #f4f4f4;
+  border-radius: 8px;
+}
+.button_style2 {
+  font-size: 12px;
+  margin-top: 5px;
+  width: 96px;
+  height: 29px;
+  margin-left: 20px;
+  background-color: #1e2772;
+  color: #f4f4f4;
+  border-radius: 8px;
+}
+.button_style3 {
+  font-size: 15px;
+  margin-top: 5px;
+  width: 150px;
+  height: 40px;
+  margin-left: 20px;
+  background-color: #1e2772;
+  color: #f4f4f4;
+  border-radius: 8px;
+}
+.person_img {
+  position: relative;
+  left: -5px;
+}
+.person_img2 {
+  position: relative;
+  left: -9px;
+}
+.person_img3 {
+  position: relative;
+  left: -13px;
+}
+.person_img4 {
+  position: relative;
+  left: -17px;
+}
+.person_img5 {
+  position: relative;
+  left: -23px;
+}
+
+.graph_text {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.prograss_style {
+  position: relative;
+  height: 320px;
+}
+.progress {
+  background-color: #d8d8d8;
+  border-radius: 4px;
+  margin: 15px 0;
+  height: 28px;
+  width: 250px;
+}
+.progress-done {
+  background: linear-gradient(to left, #7a5cff, #d7d6f5);
+  box-shadow: 0 3px 3px -5px #94c1f3, 0 2px 5px #f5f3f3;
+  border-radius: 4px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 0;
+  opacity: 0;
+  transition: 1s ease 0.3s;
+}
+
+.tbl_button {
+  position: relative;
+  height: 30px;
+  border-radius: 10px;
+  background: #4aa785;
+  color: #f4f4f4;
+  padding-top: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 4px;
+}
+.tbl_button_red {
+  position: relative;
+  height: 30px;
+  border-radius: 10px;
+  background: red;
+  color: #f4f4f4;
+  padding-top: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 4px;
+}
